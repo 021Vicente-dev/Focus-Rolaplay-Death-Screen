@@ -1,0 +1,65 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+   background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3))
+   ;
+   background-size:cover;
+    background-image: url(https://cdn.discordapp.com/attachments/1285050875617873950/1285051767914106930/Rectangle_1_1-photoaidcom-darken.png?ex=66e8dd38&is=66e78bb8&hm=3076eeae1327cab5946a714e4bb98c91409c78071121d35e16862a2630a28887&);
+ }
+
+ @font-face {
+   font-family: "Sora-black";
+   src: url("./fonts/Sora/Sora-Black.ttf") format("opentype");
+   font-style: normal;
+   font-display: swap;
+ }
+ @font-face {
+   font-family: "Sora-bold";
+   src: url("./fonts/Sora/Sora-Bold.ttf") format("opentype");
+   font-style: normal;
+   font-display: swap;
+ }
+ @font-face {
+   font-family: "Sora-extrabold";
+   src: url("./fonts/Sora/Sora-ExtraBold.ttf") format("opentype");
+   font-style: normal;
+   font-display: swap;
+ }
+ @font-face {
+   font-family: "Sora-extralight";
+   src: url("./fonts/Sora/Sora-ExtraLight.ttf") format("opentype");
+   font-style: normal;
+   font-display: swap;
+ }
+ @font-face {
+   font-family: "Sora-light";
+   src: url("./fonts/Sora/Sora-Light.ttf") format("opentype");
+   font-style: normal;
+   font-display: swap;
+ }
+ @font-face {
+   font-family: "Sora-medium";
+   src: url("./fonts/Sora/Sora-Medium.ttf") format("opentype");
+   font-style: normal;
+   font-display: swap;
+ }
+ @font-face {
+   font-family: "Sora-regular";
+   src: url("./fonts/Sora/Sora-Regular.ttf") format("opentype");
+   font-style: normal;
+   font-display: swap;
+ }
+ @font-face {
+   font-family: "Sora-semibold";
+   src: url("./fonts/Sora/Sora-SemiBold.ttf") format("opentype");
+   font-style: normal;
+   font-display: swap;
+ }
+ @font-face {
+   font-family: "Sora-thin";
+   src: url("./fonts/Sora/Sora-Thin.ttf") format("opentype");
+   font-style: normal;
+   font-display: swap;
+ }
